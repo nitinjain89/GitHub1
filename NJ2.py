@@ -1,1 +1,0 @@
-print("File NJ2 added")
